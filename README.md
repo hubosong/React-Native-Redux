@@ -1,7 +1,7 @@
 # Redux Study
 
 <p>
-Simples APP de estudo de <strong>React-Native REDUX</strong>, utilizando <strong>Typescript</strong> e <strong>Expo</strong>, o qual possui um contador, uso de estado estático e mudanca de estado onChange.
+Simples APP de estudo de <strong>React-Native REDUX</strong>, utilizando <strong>Typescript</strong> e <strong>Expo</strong>, o qual possui um contador, uso de estado estático e mudanca de estado onChangeText.
 </p>
 
 1. Ferramentas
