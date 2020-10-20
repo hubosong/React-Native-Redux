@@ -13,8 +13,8 @@ Simples APP de estudo de <strong>React-Native REDUX</strong>, utilizando <strong
 
 2. Instalação
 * Projeto <br/>
-expo init mobile <br/>
-- blank typescript
+expo init redux <br/>
+  blank typescript
 
 * Redux <br/>
 npm i redux react-redux <br/>
